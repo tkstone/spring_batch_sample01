@@ -6,7 +6,7 @@
 	<artifactId>spring_batch_test</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<properties>
-		<spring-framework.version>4.3.21.RELEASE</spring-framework.version>
+		<spring-framework.version>6.1.14</spring-framework.version>
 	</properties>
 	<dependencies>
 		<dependency>
